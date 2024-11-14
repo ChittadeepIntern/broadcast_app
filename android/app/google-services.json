@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625503226851",
+    "project_id": "broadcast-ib-arts",
+    "storage_bucket": "broadcast-ib-arts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625503226851:android:855a679d26dc479ef4eed6",
+        "android_client_info": {
+          "package_name": "com.example.broadcast_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLTeMzVL6SPk7hO3pgnss8-_mXdXVexMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
